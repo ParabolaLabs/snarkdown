@@ -2,11 +2,7 @@
   "name": "snarkdown",
   "description": "Transform Markdown into HTML.",
   "version": "2.0.0",
-  "main": "./dist/snarkdown.js",
-  "module": "./dist/snarkdown.es.js",
-  "modern": "./dist/snarkdown.modern.js",
-  "umd:main": "./dist/snarkdown.umd.js",
-  "unpkg": "./dist/snarkdown.umd.js",
+  "main": "./src/snarkdown.js",
   "types": "./snarkdown.d.ts",
   "scripts": {
     "build": "microbundle",
